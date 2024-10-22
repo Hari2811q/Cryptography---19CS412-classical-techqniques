@@ -299,7 +299,8 @@ int main()
 }
 ```
 ## OUTPUT:
-![WhatsApp Image 2024-10-21 at 09 27 44_15099a54](https://github.com/user-attachments/assets/ee0690f4-169e-4335-9fad-2fe1a5b8bb15)
+![Screenshot 2024-10-22 231416](https://github.com/user-attachments/assets/47a0faec-41c3-43f0-9fd4-10b9e25475d2)
+
 
 
 ## RESULT:
